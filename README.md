@@ -198,10 +198,3 @@ Uninstall:
 ```bash
 sudo dpkg -r myapp
 ```
-
----
-
-## 📜 License
-
-MIT License  
-See `LICENSE` file or provide via `CFG_COPYRIGHT_STRING` or `CFG_COPYRIGHT_FILE_PATH`.
