@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.6] - TESTING
+## [1.6] - 2025-12-02
 
 ### Added
 - auto add payload dirs to CFG_DIRS_CONF if not present
