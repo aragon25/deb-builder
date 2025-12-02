@@ -14,7 +14,6 @@ Easily define metadata, control fields, payload files/directories, Raspberry Pi 
 - Changelog parsing from Keep a Changelog markdown
 - Minimal external dependencies
 - Auto calculation of package size
-- Supports both files and folders as payload
 
 ---
 
