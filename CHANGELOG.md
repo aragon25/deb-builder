@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.6.1] - 2026-02-15
+
+### Added
+- autoconvert colons to underscore in output filenames
+
 ## [1.6] - 2025-12-02
 
 ### Added
